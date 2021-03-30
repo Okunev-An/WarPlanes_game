@@ -1,0 +1,12 @@
+Greetings, brave pilot!
+Your objective is to destroy as many enemies as possible.
+Each new wave will be faster but will grant you more points.
+Your highscore will be saved after closing game window.
+
+CONTROLS:
+[UP, DOWN, LEFT, RIGHT] - move your plane
+[SPACE] - shoot
+[P] - pause
+[Q] - quit game
+
+press [ENTER] to close this menu
